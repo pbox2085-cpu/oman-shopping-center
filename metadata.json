@@ -1,0 +1,6 @@
+{
+  "name": "Oman General Store | Turbat",
+  "description": "Oman General Store in Turbat — beauty, personal care, perfumes, fashion, and everyday essentials with instant WhatsApp ordering and store details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
